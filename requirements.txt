@@ -1,0 +1,5 @@
+pyaudio
+struct
+numpy
+matplotlib
+tkinter
